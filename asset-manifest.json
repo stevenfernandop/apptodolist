@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stevenfernandop/apptodolist/static/css/main.495b367b.css",
+    "main.js": "/stevenfernandop/apptodolist/static/js/main.41b7598c.js",
+    "static/js/787.c1112931.chunk.js": "/stevenfernandop/apptodolist/static/js/787.c1112931.chunk.js",
+    "index.html": "/stevenfernandop/apptodolist/index.html",
+    "main.495b367b.css.map": "/stevenfernandop/apptodolist/static/css/main.495b367b.css.map",
+    "main.41b7598c.js.map": "/stevenfernandop/apptodolist/static/js/main.41b7598c.js.map",
+    "787.c1112931.chunk.js.map": "/stevenfernandop/apptodolist/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.495b367b.css",
+    "static/js/main.41b7598c.js"
+  ]
+}
